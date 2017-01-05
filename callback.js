@@ -1,3 +1,4 @@
+//test 
 function callbacks (st) {
 	// body...
 	console.log('show callbacks:'+st);
